@@ -9,8 +9,8 @@
 -- skalowanie odśrodkowe i czcionka
 local rozdzielczosc = {guiGetScreenSize()};
 local skalowanie = 1920/rozdzielczosc[1];
-local czcionka_pieniadze = dxCreateFont("misc/pieniadze.ttf", 18);
-local czcionka_regular = dxCreateFont("misc/Roboto-Regular.ttf", 18);
+local czcionka_pieniadze = dxCreateFont("misc/pieniadze.ttf", 18/skalowanie);
+local czcionka_regular = dxCreateFont("misc/Roboto-Regular.ttf", 18/skalowanie);
 hud = {}
 
 hud.render = function()
