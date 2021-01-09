@@ -3,6 +3,7 @@
 @KONTAKT mój: discord / kamil#2087.
 @DO: GTAO.pl.
 @DATA: 2020-04-24.
+@RELEASE: 2021-01-10.
 @OPIS Szczegółowy: Panel HUD.
 ]]
 
