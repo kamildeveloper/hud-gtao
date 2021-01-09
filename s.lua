@@ -8,7 +8,7 @@
 ]]
 
 
-addEventHandler("onPlayerJoin", root,function()
+addEventHandler("onPlayerJoin", root, function()
 	 setPlayerHudComponentVisible(source, "armour", false)
 	 setPlayerHudComponentVisible(source, "breath", false)
 	 setPlayerHudComponentVisible(source, "clock", false)
