@@ -2,7 +2,7 @@
 
 	<script src="c.lua" type="client" cache="false" />
 	<script src="s.lua" type="server" />
-	<file src="misc/pieniadze.ttf" />
+	<file src="misc/money.ttf" />
 	<file src="misc/Roboto-Regular.ttf" />
 	<file src="img/background.png" />
 	<file src="img/avatar.png" />
